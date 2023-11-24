@@ -1,7 +1,5 @@
 #functions relating to the fundamental geometry of a carriage
 
-
-
 #a passenger on the train
 class Passenger:
     def __init__(self,mean_weight,design_weight,design_density):
